@@ -1,6 +1,6 @@
 # Andreas
 
-I use Home Assistant at home and contribute fixes and additions to the open-source projects I rely on. I am grateful to the maintainers who reviewed and accepted them.
+I use Home Assistant and contribute fixes and additions to the open-source projects I rely on when i can. I am grateful to the maintainers who reviewed and accepted them.
 
 ## Contributions
 
